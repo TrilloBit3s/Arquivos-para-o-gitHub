@@ -3,7 +3,7 @@
 Enviar arquivos para o git hub, para isso precisa baixar o https://git-scm.com/        
 abrir a pasta do arquivo e selecionar Git Bash here                                    
                                                                                 
-*********************************Para subir Arquivos para o GuitHub****************************************** 
+ ### Para subir Arquivos para o GuitHub
                                                                                        
 git config --global user.name "Nome do seu github"                                     
 git config --global user.email "E-mail usado no github"                                
