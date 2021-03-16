@@ -1,6 +1,6 @@
-# Subindo-arquivos-para-o-gitHub
+# Arquivos-para-o-gitHub
 
-Enviar arquivos para o git hub, para isso precisa baixar o https://git-scm.com/        
+Enviar arquivos ao github, para isso precisa baixar o https://git-scm.com/        
 abrir a pasta do arquivo e selecionar Git Bash here                                    
                                                                                 
  ### Para subir Arquivos para o GuitHub
