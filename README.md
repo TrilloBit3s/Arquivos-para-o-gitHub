@@ -34,13 +34,13 @@ Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center
 *************************************************************************************************************
 
 
-**git status** – Mostra o status da sua branch, lista os arquivos modificados, deletados ou criados.
+**git status** 			– Mostra o status da sua branch, lista os arquivos modificados, deletados ou criados.
 
-**git add - A** - Adiciona todos as alterações (elege elas a serem fazerem parte do commit).
+**git add - A** 		- Adiciona todos as alterações (elege elas a serem fazerem parte do commit).
 
-**git commit -m “primeiro commit”** – Commita os arquivos (salva eles na sua branch).
+**git commit -m “primeiro commit”** 			– Commita os arquivos (salva eles na sua branch).
 
-**git checkout -b nome-da-sua-nova-branch** – Cria uma nova branch
+**git checkout -b nome-da-sua-nova-branch** 			– Cria uma nova branch
 
 **git checkout nome-outra-branch** - Troca de Branch
 
