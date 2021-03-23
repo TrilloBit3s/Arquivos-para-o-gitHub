@@ -35,15 +35,24 @@ Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center
 
 
 **git status** – Mostra o status da sua branch, lista os arquivos modificados, deletados ou criados.
-**git add - A** - Adiciona todos as alterações (elege elas a serem fazerem parte do commit)
-**git commit -m “primeiro commit”** – Commita os arquivos (salva eles na sua branch)
+
+**git add - A** - Adiciona todos as alterações (elege elas a serem fazerem parte do commit).
+
+**git commit -m “primeiro commit”** – Commita os arquivos (salva eles na sua branch).
+
 **git checkout -b nome-da-sua-nova-branch** – Cria uma nova branch
+
 **git checkout nome-outra-branch** - Troca de Branch
+
 **git merge nome-da-branch** – Mescla a branch especificada com a atual
+
 **git pull origin nome-da-branch** – Baixa todos os arquivos diferentes da branch remota especificada para sua máquina
+
 **git push origin nome-da-branch** – Envia os arquivos commitados para o servidor
+
 **git remote add origin link-do-repositorio** – Adiciona um repositório remoto
-g**it reset –hard origin/nome-da-branch** – Descarta todas as alterações locais e deixa como no repositório remoto
+
+**git reset –hard origin/nome-da-branch** – Descarta todas as alterações locais e deixa como no repositório remoto
 
 
 
