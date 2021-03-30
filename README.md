@@ -39,7 +39,7 @@ Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center
 	git commit -a -m "Atualização 0.1"
 	git push origin main
 
-	Se der erro use
+		Se der erro use
 	
 	git add -A
 	git push -u origin main
