@@ -32,6 +32,19 @@ git push -u origin main
 emogis:    https://emojipedia.org/                                                     
 Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 *************************************************************************************************************
+		          PARA ATUALIZAR O PROJETO NO GITHUB	
+			  
+git status
+git add .
+git commit -a -m "Atualização 0.1"
+git push origin main
+
+	Se der erro use
+	
+git add -A
+git push -u origin main
+
+*************************************************************************************************************
 				LISTA DE COMANDOS GITHUB
 				
 **git status** 	– Mostra o status da sua branch, lista os arquivos modificados, deletados ou criados.
