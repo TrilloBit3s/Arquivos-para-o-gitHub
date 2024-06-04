@@ -4,6 +4,16 @@ Enviar arquivos ao github, para isso precisa baixar o https://git-scm.com/
 abrir a pasta do arquivo e selecionar Git Bash here                                    
                                                                                 
  ### Para subir Arquivos para o GuitHub
+
+//para criar um novo repositoria na linha de comando
+git init 
+git add README.md
+git commit -m "first commit"
+git banch -M main
+git remote add origin https://github.com/...........
+git push -u origin main
+
+ou
                                                                                        
 git config --global user.name "Nome do seu github"                                     
 git config --global user.email "E-mail usado no github"                                
@@ -31,20 +41,27 @@ git push -u origin main
        										                                           
 emogis:    https://emojipedia.org/                                                     
 Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
-*************************************************************************************************************
-		          PARA ATUALIZAR O PROJETO NO GITHUB	
-			  
-	git status
-	git add .
-	git commit -a -m "Atualização 0.1"
-	git push origin main
+****************************************************************************************		
+		          PARA ATUALIZAR O PROJETO NO GITHUB			       
+                                                                                       
+git status
+git add .
+git commit -a -m "Atualização 0.1"
+git push origin main
 
-		Se der erro use
-	
-	git add -A
-	git push -u origin main
+	Se der erro use
 
-*************************************************************************************************************
+git add -A
+git push -u origin main
+
+
+****************************************************************************************
+git pull origin main
+git push origin main
+
+
+
+****************************************************************************************
 				LISTA DE COMANDOS GITHUB
 				
 **git status** 	– Mostra o status da sua branch, lista os arquivos modificados, deletados ou criados.
