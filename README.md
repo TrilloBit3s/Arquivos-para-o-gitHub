@@ -38,12 +38,12 @@ então "Sua Senha"
 aceite os termos caso peça e pronto seu arquivo já subiu.                          
 										                                               
 *************************************************************************************************
-   PARA ATUALIZAR HEADME NO GITHUB
+-------------------------PARA ATUALIZAR HEADME NO GITHUB
 			                              										                                           
 emogis:    https://emojipedia.org/                                                     
 Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 *************************************************************************************************
-   PARA ATUALIZAR O PROJETO NO GITHUB			       
+-------------------------PARA ATUALIZAR O PROJETO NO GITHUB			       
                                                                                        
 git status
 git add .
@@ -58,9 +58,10 @@ git push -u origin main
 *************************************************************************************************
 
 git pull origin main
+
 git push origin main
 *************************************************************************************************
-   LISTA DE COMANDOS GITHUB
+-------------------------LISTA DE COMANDOS GITHUB
 
 **git status** 	– Mostra o status da sua branch, lista os arquivos modificados, deletados ou criados.
 
