@@ -45,15 +45,15 @@ Guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center
 *************************************************************************************************
 -------------------------PARA ATUALIZAR O PROJETO NO GITHUB			       
                                                                                        
-git status
-git add .
-git commit -a -m "Atualização 0.1"
-git push origin main
+**git status**
+**git add . **
+**git commit -a -m "Atualização 0.1"**
+**git push origin main**
 
 Se der erro use
 
-git add -A
-git push -u origin main
+**git add -A**
+**git push -u origin main**
 
 *************************************************************************************************
 
